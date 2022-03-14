@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import HoverContext from '../contexts/HoverContext';
+import { HoverContext } from '../contexts';
 
 const useHover = () => {
     return useContext(HoverContext);

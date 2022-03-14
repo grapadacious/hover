@@ -1,3 +1,4 @@
 import HoverContainer from './HoverContainer';
+import withHover from './withHover';
 
-export { HoverContainer };
+export { HoverContainer, withHover };
